@@ -280,6 +280,10 @@ width: 15%;
   .Titre {
   padding-top: 60px;
   }
+
+  .Artisan {
+    padding: 0 0 20rem;
+  }
   .testimonials-image {
   width: 25%;
   }
