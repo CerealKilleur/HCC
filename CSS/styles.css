@@ -58,7 +58,7 @@ vertical-align: central;
 }
 #myCarousel h4{
 	font-size:50px;
-	margin-bottom:15px;
+	margin: 2% 7%;
 	color:#FFF;
 	line-height:100%;
 	letter-spacing:0.5px;
@@ -66,10 +66,11 @@ vertical-align: central;
 }
 #myCarousel p{
 	font-size:18px;
-	margin-bottom:15px;
+	margin: 2% 7%;
+
 	color:#d5d5d5;
 }
-#myCarousel .carousel-item a{background:blue; font-size:14px; color:#FFF; padding:13px 32px; display:inline-block; }
+#myCarousel .carousel-item a{background:blue; font-size:14px; color:#FFF; margin: 2% 7%; padding:13px 32px; display:inline-block; }
 #myCarousel .carousel-item a:hover{background:#394fa2; text-decoration:none;  }
 
 #myCarousel .carousel-item h4{-webkit-animation-name:fadeInLeft; animation-name:fadeInLeft;}
@@ -274,6 +275,10 @@ width: 15%;
   font-size: 1rem;
   font-weight: 900;
   margin-right: 0;
+  }
+
+  .Titre {
+  padding-top: 60px;
   }
   .testimonials-image {
   width: 25%;
