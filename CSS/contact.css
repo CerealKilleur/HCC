@@ -65,3 +65,10 @@ textarea.form-control {
   color: #fff;
 
 }
+@media (max-width: 1028px) {
+  .navbar-brand {
+  font-size: 1rem;
+  font-weight: 900;
+  margin-right: 0;
+  }
+}
